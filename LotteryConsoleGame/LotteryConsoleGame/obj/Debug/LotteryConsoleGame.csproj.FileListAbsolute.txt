@@ -1,0 +1,7 @@
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\bin\Debug\LotteryConsoleGame.exe.config
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\bin\Debug\LotteryConsoleGame.exe
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\bin\Debug\LotteryConsoleGame.pdb
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\obj\Debug\LotteryConsoleGame.csprojAssemblyReference.cache
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\obj\Debug\LotteryConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\obj\Debug\LotteryConsoleGame.exe
+C:\Users\Breuss\Documents\MyApplications\LotteryConsoleGame\LotteryConsoleGame\obj\Debug\LotteryConsoleGame.pdb

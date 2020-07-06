@@ -1,0 +1,9 @@
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\bin\Release\netstandard2.0\GameSystem.deps.json
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\bin\Release\netstandard2.0\GameSystem.dll
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\bin\Release\netstandard2.0\GameSystem.pdb
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\obj\Release\netstandard2.0\GameSystem.csprojAssemblyReference.cache
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\obj\Release\netstandard2.0\GameSystem.AssemblyInfoInputs.cache
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\obj\Release\netstandard2.0\GameSystem.AssemblyInfo.cs
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\obj\Release\netstandard2.0\GameSystem.csproj.CoreCompileInputs.cache
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\obj\Release\netstandard2.0\GameSystem.dll
+C:\Users\Breuss\Documents\MyApplications\GameSystem\GameSystem\obj\Release\netstandard2.0\GameSystem.pdb
